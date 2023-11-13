@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\com12\\OneDrive\\Рабочий стол\\Git\\git-actually\\helloapp-black\\git\\git\\git.csproj": {}
+    "C:\\Users\\com12\\OneDrive\\Рабочий стол\\Git\\git-actually\\helloapp-white\\git\\git.csproj": {}
   },
   "projects": {
-    "C:\\Users\\com12\\OneDrive\\Рабочий стол\\Git\\git-actually\\helloapp-black\\git\\git\\git.csproj": {
+    "C:\\Users\\com12\\OneDrive\\Рабочий стол\\Git\\git-actually\\helloapp-white\\git\\git.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\com12\\OneDrive\\Рабочий стол\\Git\\git-actually\\helloapp-black\\git\\git\\git.csproj",
+        "projectUniqueName": "C:\\Users\\com12\\OneDrive\\Рабочий стол\\Git\\git-actually\\helloapp-white\\git\\git.csproj",
         "projectName": "git",
-        "projectPath": "C:\\Users\\com12\\OneDrive\\Рабочий стол\\Git\\git-actually\\helloapp-black\\git\\git\\git.csproj",
+        "projectPath": "C:\\Users\\com12\\OneDrive\\Рабочий стол\\Git\\git-actually\\helloapp-white\\git\\git.csproj",
         "packagesPath": "C:\\Users\\com12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\com12\\OneDrive\\Рабочий стол\\Git\\git-actually\\helloapp-black\\git\\git\\obj\\",
+        "outputPath": "C:\\Users\\com12\\OneDrive\\Рабочий стол\\Git\\git-actually\\helloapp-white\\git\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
